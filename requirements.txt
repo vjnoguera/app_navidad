@@ -4,3 +4,8 @@ numpy
 scikit_learn
 sqlalchemy
 gunicorn
+prodia
+BytesIO
+cv2
+cohere
+requests
